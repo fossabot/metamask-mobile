@@ -3,6 +3,7 @@
 # MetaMask
 
 [![CircleCI](https://circleci.com/gh/MetaMask/metamask-mobile/tree/develop.svg?style=shield)](https://circleci.com/gh/MetaMask/metamask-mobile/tree/develop)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frickycodes%2Fmetamask-mobile.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frickycodes%2Fmetamask-mobile?ref=badge_shield)
 
 MetaMask is a mobile web browser that provides easy access to websites that use the [Ethereum](https://ethereum.org/) blockchain.
 
@@ -74,6 +75,9 @@ yarn watch
 ```bash
 yarn start:android
 ```
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frickycodes%2Fmetamask-mobile.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frickycodes%2Fmetamask-mobile?ref=badge_large)
 
 #### iOS
 
